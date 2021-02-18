@@ -1,3 +1,24 @@
+#This is my basic project that cover everything you need to know about React: Redux, React Hook, authentication, connect with firebase...
+Some of its picture:
+Main page with order choose
+![](https://github.com/QuocVietHa08/Burger-Builder-Project-/blob/master/main.png);
+
+Your order:
+![](https://github.com/QuocVietHa08/Burger-Builder-Project-/blob/master/img1.png);
+
+Order info section
+![](https://github.com/QuocVietHa08/Burger-Builder-Project-/blob/master/order.png);
+
+Authentication form:
+![](https://github.com/QuocVietHa08/Burger-Builder-Project-/blob/master/authen.png);
+
+All your order:
+![](https://github.com/QuocVietHa08/Burger-Builder-Project-/blob/master/orders.png);
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
